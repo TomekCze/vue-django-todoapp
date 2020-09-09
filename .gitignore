@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+django/venv
+django/db.sqlite3
+vue/vuengo/package-lock.json
+vue/vuengo/node_modules
+vue/vuengo/.gitignore
+vue/vuengo/dist
+vue/vuengo/.env.local
+.idea
